@@ -31,7 +31,7 @@
 <div align="center">
  
 <br>
- <img src = "readmepics/terraform.png" width = 300>
+ <img src = "readmepics/python-logo-master-v3-TM.png" width = 300>
 
 <h3 align="center">Python Projects</h3>
   <p align="center">

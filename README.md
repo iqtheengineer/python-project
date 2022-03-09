@@ -31,7 +31,7 @@
 <div align="center">
  
 <br>
- <img src = "readmepics/python-logo-master-v3-TM.png" width = 300>
+ <img src = "readmeimages/python-logo-master-v3-TM.png" width = 600>
 
 <h3 align="center">Python Projects</h3>
   <p align="center">
@@ -99,11 +99,17 @@ learning with personal projects.
 ## Roadmap
 
 1. dictionary.py - This project defines 3 seperate dictionarys and then merges the the contents of all 3 into a new 4th dictionary.
+ 
 2. loop-de-loop.py - This project shows how to iterate over a given number range while excluding definied integers.
+
 3. math-calculation.py - This project shows how to utilize the "math" library to execute calculations.
-4. paycheck-calculator.py - This project shows how to setup a function to gather user input and store it in a variable to produce various outcomes.
+ 
+4. paycheck-calculator.py - This project shows how to setup a function to gather user input and store it in a variable to produce payroll total.
+ 
 5. salary-expectation.py - This project captures the user's information to produce an estimated salary expectation based on input varibles.
+
 6. tax-calculatory.py - This project allows the user to calculate their "ACME Corporation" paycheck based on user input.
+ 
 7. weather-app.py - This project displays the Date & Temperature based on variables.
 
 See the [open issues](https://github.com/iqtheengineer/python-project/issues) for a full list of proposed features (and known issues).
@@ -168,5 +174,6 @@ Project Link: [https://github.com/iqtheengineer/python-project](https://github.c
 [issues-url]: https://github.com/iqtheengineer/python-project/issues
 [license-shield]: https://img.shields.io/github/license/github_username/repo_name.svg?style=for-the-badge
 [license-url]: https://github.com/github_username/repo_name/blob/master/LICENSE.txt
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/iman-crooks
 [product-screenshot]: downloads/ImanCrooks1_whiteBG.gif

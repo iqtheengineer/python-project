@@ -4,4 +4,5 @@ def calc_and_show_pay():
     gross_pay = float(rate) * float(hours)  
     print("Payroll Information:")           
     print("Your pay is %f"%(gross_pay))     
-    return gross_pay    
+    return gross_pay 
+calc_and_show_pay()
